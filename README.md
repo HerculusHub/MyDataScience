@@ -1,4 +1,4 @@
-Hi, I like using data science skills to find useful insights in data to support informed decision.
+Hi, My name is Mingyu Liu. I like using data science skills to find useful insights in data to support informed decision.
 
 I recorded my case study experience here. 
 
